@@ -18,6 +18,7 @@ import java.net.Socket;
 import java.util.Timer;
 import java.util.TimerTask;
 
+
 public class ClientView extends View implements Runnable {
 
     //基本属性

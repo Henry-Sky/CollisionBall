@@ -18,8 +18,9 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 public class MainActivity extends AppCompatActivity {
-
+    //git测试-----------------------------------------------------------------------------------------------------
     //基本属性
+    private String git;
     private String ip;
     public static int port=10000;
     private String cntpsd="";
@@ -123,4 +124,5 @@ public class MainActivity extends AppCompatActivity {
         }
         return str;
     }
+    //git测试----------------------------------------------------------------------------------------
 }
