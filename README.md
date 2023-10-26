@@ -1,8 +1,5 @@
 # CollisionBall
-Just for fun
-# 这是个啥
-### 测试
 
-- 第一
-- 第二
-- 第三
+初学java  
+尝试用java写个小游戏  
+用到socket实现局域网联机
